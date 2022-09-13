@@ -1,4 +1,4 @@
-# Michene-Learning-Portfolio
+# Machine-Learning-Portfolio
 
 ## Overview of ML
 
