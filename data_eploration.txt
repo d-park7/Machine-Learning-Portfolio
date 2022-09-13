@@ -1,0 +1,5 @@
+b. Creating my own functions in C++ was quite fun and interesting, but I prefer to use built-in functions available in R. Recreating the functions is good coding practice, but not having to worry about creating my own functions is more realistic and simple.
+c. The mean is taking the average of a data set, which is adding all elements and dividing it by the number of elements. This is useful for having a general baseline for all the data points in the dataset.
+The median is the middle most number from a dataset when the data is ordered. This is useful because the median is resistant to outliers, unlike the mean, so it is useful to guage the dataset in data exploration.
+The range is the maximum number subtracted by the minimum number in a dataset. This is useful to see the variability of a dataset.
+d. Covariance shows the linear direction between two attribute. Correlation shows the direction and the magnitude of the linear relationship between two attributes. This is very useful in machine learning because these give more insight into the data that the machine may use later.
