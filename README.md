@@ -9,10 +9,10 @@
 
 ## Data Exploration
 
-[Data exploration](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Portfolio%20Component%201%20-%20Data%20Exploration.pdf) is the assignment description.
+[Assignment description can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Portfolio%20Component%201%20-%20Data%20Exploration.pdf) is the assignment description.
 
 [Source code can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Source.cpp)
 
 [Assignment document can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/data_eploration.txt)
 
-[Output of the source code can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/data_eploration.txt)
+[Output of the source code can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Output.JPG)
