@@ -2,7 +2,8 @@
 
 ## Overview of ML
 
-[Overview of ML](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Overview_of_ML.pdf) describes and defines some key concepts and terminology in machine learning.
+[Assignment can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Overview_of_ML.pdf)
+
 
 [Assignment Description](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Portfolio_Component_0%20_Set_Up(1).pdf)
 
