@@ -30,3 +30,5 @@
 [Clustering work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Clustering.pdf)
 
 [Dimensionality reduction work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Dimensionality_Reduction.pdf)
+
+[Narrative of work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Narrative.pdf)
