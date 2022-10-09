@@ -12,9 +12,21 @@
 
 [Assignment description can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Portfolio%20Component%201%20-%20Data%20Exploration.pdf)
 
-
 [Source code can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Source.cpp)
 
 [Assignment document can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/data_eploration.txt)
 
 [Output of the source code can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Output.JPG)
+
+
+## Searching for Similarity
+
+[Assignment description can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Portfolio%20Component%20-%20Searching%20for%20Similarity.pdf)
+
+[Regression work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Linear_Regression.pdf)
+
+[Classification work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Logistic_Regression.pdf)
+
+[Clustering work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Clustering.pdf)
+
+[Dimensionality reduction work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Dimensionality_Reduction.pdf)
