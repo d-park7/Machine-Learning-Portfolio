@@ -32,3 +32,16 @@
 [Dimensionality reduction work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Dimensionality_Reduction.pdf)
 
 [Narrative of work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Narrative.pdf)
+
+
+## Kernel Ensemble Methods
+
+[Assignment description can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Portfolio%20Component%20-%20Kernel%20and%20Ensemble%20Methods.pdf)
+
+[Regression work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Kernel-Methods-Regression.pdf)
+
+[Classification work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Kernel-Methods-Classification.pdf)
+
+[Ensemble techniques work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Ensemble-Techniques.pdf)
+
+[Narrative of work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Write%20Up.pdf)
