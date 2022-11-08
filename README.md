@@ -45,3 +45,14 @@
 [Ensemble techniques work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Ensemble-Techniques.pdf)
 
 [Narrative of work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Write%20Up.pdf)
+
+
+## ML with Sklearn
+
+[Assignment description can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/Portfolio%20Component%20sklearn.pdf)
+
+[PDF version of work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/ML%20with%20sklearn.pdf)
+
+[Jupyter notebook can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/ML%20with%20sklearn.ipynb)
+
+[Narrative of work can be viewed here](https://github.com/d-park7/Machine-Learning-Portfolio/blob/main/ML%20with%20sklearn.txt)
