@@ -1,0 +1,11 @@
+1. The algorithm that performed the best was actually a tie between the Neural Network 2 and the Decision Tree.
+
+2.Both the Decision Tree and the Neural Network 2 have almost exactly the same precision, recall, and accuracy. They both had an accuracy of 91%. A recall of 92% in class 0 and a 89% in class 1. A precicion of 94% in class 0 and 86% in class 1. 
+
+3. I am completely stumped as to why the metrics came out exactly the same for the neural network and the decision tree. However, if I had to guess as to why they are nearly identical is that I had created a topology for Neural Network 2 in such a way that it is nearly identical to the Decision Tree. In addition, the dataset being a very small one could have had a role in these two models outputting nearly the same report.
+
+4. Sklearn was easier for me to learn than R because of the familiar syntax.
+In addition, I have previously learned a little bit of python so it was a
+more seamless transition. However, R seems very powerful in combination with
+RStudio because of the way that RStudio is setup out of the box. R also has
+very easy methods to calculate and modify data. 
